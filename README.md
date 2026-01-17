@@ -4,9 +4,9 @@ Repositórios para armazenar informações dobre o Git e GitHub d curdo do codig
 
 😎🙌🙌 Documentação
 
-🖨💾 Resumos 
+🖨💾 Resumos
 
-Aulas (Resumos)
+Aulas 
 
 Gravand repositórios da aula 
 ''' git nit
