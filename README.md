@@ -2,7 +2,7 @@
 
 Repositórios para armazenar informações dobre o Git e GitHub d curdo do codigos de Git e Git Hub 
 
-😎🙌🙌 Documentação
+😎🙌 Documentação
 
 🖨💾 Resumos
 
